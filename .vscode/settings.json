@@ -1,0 +1,13 @@
+{
+    "cmake.debugConfig": {
+        "args": [
+            "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/model/posture13.rknn",
+            "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/model/video.mp4",
+        ]
+    },
+    "files.associations": {
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}

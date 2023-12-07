@@ -1,0 +1,7 @@
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/rknn_yolov5_e.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/edit_cache.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/list_install_components.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/install.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/install/local.dir
+/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/main.cc.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/main.cc",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/main.cc"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/postprocess.cc.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/postprocess.cc",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/postprocess.cc"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/BYTETracker.cpp.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/BYTETracker.cpp",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/BYTETracker.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/kalmanFilter.cpp.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/kalmanFilter.cpp",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/kalmanFilter.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/lapjv.cpp.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/lapjv.cpp",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/lapjv.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/STrack.cpp.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/STrack.cpp",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/STrack.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty -I/usr/include/eigen3 -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/include -I/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/../3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++11 -o CMakeFiles/rknn_yolov5_e.dir/src/utils.cpp.o -c /home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/utils.cpp",
+  "file": "/home/orangepi/rknpu2-master/examples/rknn_yolov5_e/src/utils.cpp"
+}
+]
